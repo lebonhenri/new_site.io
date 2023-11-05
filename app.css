@@ -1,0 +1,16 @@
+h1 {
+	color: red;
+    text-align: center;
+
+}
+
+body {
+	background-image:url(montagne.jpg);
+	background-repeat:no-repeat;
+	background-color: yellow;
+	#btn {
+		font-size: 25px;
+		button:center;
+
+	}
+}
