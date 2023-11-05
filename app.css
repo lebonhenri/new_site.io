@@ -1,9 +1,10 @@
 h1 {
 	color: red;
     text-align: center;
-
 }
-
+a {
+	color:white;
+}
 body {
 	background-image:url(montagne.jpg);
 	background-repeat:no-repeat;
